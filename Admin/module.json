@@ -1,0 +1,14 @@
+{
+    "name": "Admin",
+    "alias": "admin",
+    "description": "",
+    "version": "3.0",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Admin\\app\\Providers\\AdminServiceProvider"
+    ],
+    "files": [
+        "app/Http/Helpers/helpers.php"
+    ]
+}
